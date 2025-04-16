@@ -40,7 +40,3 @@ My name is Manuel Contreras, I am an industrial engineer interested in Data Scie
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
----
-
-Let me know if you want to add a **tools section** (like VS Code, Git, GitHub Actions, etc.) or reorganize based on frontend/backend!
