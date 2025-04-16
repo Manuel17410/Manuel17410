@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is Manuel Contreras, I am an industrial engineer interested in Data Science!
+
 <!--
 **Manuel17410/Manuel17410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
