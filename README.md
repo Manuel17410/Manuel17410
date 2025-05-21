@@ -1,9 +1,20 @@
 ## 👋 Hi there, I'm Manuel Contreras!
 
-My name is Manuel Contreras, I am an industrial engineer interested in Data Science with a passion for uncovering insights and solving real-world problems using machine learning, deep learning, and data visualization!
+I'm an Industrial Engineer passionate about Data Science and AI Engineering. Whether it's through machine learning, deep learning, natural language processing, or large language models (LLMs), I enjoy turning complex challenges into impactful solutions.
 
 
 ### 🛠 Tech Stack
+
+#### 🧠 Artificial Intelligence & LLMs  
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
+![FAISS](https://img.shields.io/badge/FAISS-2D2D2D?style=for-the-badge&logo=python&logoColor=white)
+![SpeechRecognition](https://img.shields.io/badge/SpeechRecognition-FFB300?style=for-the-badge&logo=python&logoColor=black)
+![TorchVision](https://img.shields.io/badge/TorchVision-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+
+
 
 #### 🤖 Machine & Deep Learning  
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
