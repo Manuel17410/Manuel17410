@@ -1,6 +1,4 @@
-## 👋 Hi there, I'm Manuel Contreras!
 
-I'm an Industrial Engineer passionate about Data Science and Data Analytics.
 
 ### 🛠 Tech Stack
 
